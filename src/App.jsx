@@ -1,9 +1,15 @@
 import './App.css'
+import Rotas from './componentes/Rotas'
+
 
 function App() {
 
   return (
-    <div></div>
+    <div className='App'>
+
+    <Rotas/>
+    
+    </div>
   )
 }
 

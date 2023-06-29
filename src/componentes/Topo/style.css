@@ -1,0 +1,31 @@
+.topo{
+    background-color: #1b3675;
+    font-size: 20px;
+    
+}
+
+.conteudo-topo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 50px;
+    height: 10vh;
+}
+
+.topo-links {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.topo-link, .topo-links h1{
+    color: #fff;
+    text-decoration: none;   
+}
+
+.topo-link:hover, .topo-links h1:hover{
+    color: yellow;  
+}
+
+
