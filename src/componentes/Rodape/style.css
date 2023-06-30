@@ -3,9 +3,11 @@
     justify-content: center;
     align-items: center;
     background-color: #171d3f;
+    width: 100%;
 }
 
 .texto-rodape{
     color: #fff;
     padding: 20px;
+    text-align: center;
 }
