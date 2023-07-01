@@ -54,6 +54,8 @@
 }
 
 @media screen and (max-width:768px) {
-    
+    .conteudo-topo{
+        flex-direction: column;
+        gap: 5px;
 }
-
+}
