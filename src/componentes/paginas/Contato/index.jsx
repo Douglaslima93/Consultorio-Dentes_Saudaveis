@@ -12,6 +12,7 @@ const Contato = () => {
                 </div>
 
             </div>
+<Mapa/>
         </EstruturaPagina>
     )
 }
