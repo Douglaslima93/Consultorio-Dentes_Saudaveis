@@ -50,6 +50,9 @@
     .conteudo-topo{
         flex-direction: column;
         gap: 5px;
+        height: 70px;
+        margin-bottom: 5px;
+        padding: 10px 10px;
     }
 }
 
@@ -57,5 +60,8 @@
     .conteudo-topo{
         flex-direction: column;
         gap: 5px;
+        height: 70px;
+        margin-bottom: 5px;
+        padding: 10px 10px;
 }
 }
