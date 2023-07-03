@@ -1,0 +1,94 @@
+.contato-container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 80px 20px;
+}
+
+.contato-mapa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.contato-mapa h2{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 300;
+    color: gray;
+    padding: 20px 0;
+}
+
+.contato-mapa span{
+    font-weight: 600;
+    color: black;
+}
+
+.contato-mapa p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.contato-mapa a{
+    color: #000;
+    text-decoration: none;
+    border-bottom: 5px solid transparent;
+}
+
+.contato-mapa a:hover{
+    border-bottom: 5px  solid yellow;
+}
+
+.lista-medicos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 10px;
+}
+
+.lista-medicos li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+
+.lista-medicos li img{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+}
+
+.lista-medicos li p{
+    font-size: 18px;
+    width: 90%;
+    text-align: center;
+    padding: 5px;
+}
+
+.lista-medicos li .medico{
+    border-bottom: 5px solid transparent;
+    width: 50%;
+}
+
+.lista-medicos li .medico:hover{
+    border-bottom: 5px solid yellow;
+    width: 50%;
+    cursor: pointer;
+}
+
+.titulo-mapa{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 300;
+    color: gray;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+
+
+
