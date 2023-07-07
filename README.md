@@ -2,7 +2,7 @@
 
 ## Pagina Web, de um consultorio de dentistas, na qual tem navegação entre as paginas utilizando React Router Dom e também aproveitando componentes utilizando Props.
 
-## Tecnologia: Tecnologia: <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## Tecnologia: <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 ## Objetivo:
 ### - Criar uma pagina web 
